@@ -14,6 +14,7 @@ public class Fibnocci {
 			f2=f3;
 			
 			System.out.print("\t"+f3);
+			//fib...
 		}
 	}
 
